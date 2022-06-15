@@ -1,0 +1,12 @@
+{
+  "name": "is-not-javascript",
+  "version": "4.20.69",
+  "description": "Want to make extra sure you aren't using Javascript? This package is for you!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJamie9494/is-not-javascript.git"
+  },
+  "author": "Jamie Murphy <hello@jamiethalacker.dev>",
+  "license": "WTFPL"
+}
