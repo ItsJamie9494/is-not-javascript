@@ -3,6 +3,7 @@
   "version": "42.96.420",
   "description": "Want to make extra sure you aren't using Javascript? This package is for you!",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ItsJamie9494/is-not-javascript.git"
