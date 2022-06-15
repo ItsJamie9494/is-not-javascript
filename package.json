@@ -1,6 +1,6 @@
 {
   "name": "is-not-javascript",
-  "version": "6.94.20",
+  "version": "6.94.20666",
   "description": "Want to make extra sure you aren't using Javascript? This package is for you!",
   "main": "index.js",
   "repository": {
