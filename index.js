@@ -1,5 +1,7 @@
-import isJavascript from 'is-javascript'
+const isJavascript = require('is-javascript')
 
-export default function isNotJavascript() {
+function isNotJavascript() {
     return !isJavascript();
 }
+
+module.exports = isNotJavascript

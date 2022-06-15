@@ -7,9 +7,15 @@
     "type": "git",
     "url": "git+https://github.com/ItsJamie9494/is-not-javascript.git"
   },
+  "author": "Jamie Murphy <hello@itsjamie.dev>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
   "dependencies": {
     "is-javascript": "0.666.1"
   },
-  "author": "Jamie Murphy <hello@jamiethalacker.dev>",
-  "license": "WTFPL"
+  "scripts": {
+    "test": "jest"
+  }
 }
