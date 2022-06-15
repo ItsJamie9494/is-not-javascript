@@ -10,10 +10,15 @@
   "author": "Jamie Murphy <hello@itsjamie.dev>",
   "license": "WTFPL",
   "devDependencies": {
-    "jest": "^28.1.1"
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1",
+    "react-test-renderer": "^18.2.0"
   },
   "dependencies": {
-    "is-javascript": "0.666.1"
+    "is-javascript": "0.666.1",
+    "react": "^18.2.0"
   },
   "scripts": {
     "test": "jest"
