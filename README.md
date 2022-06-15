@@ -3,7 +3,7 @@
 Want to make extra sure you aren't using Javascript? This package is for you!
 
 ## Installation
-`npm install is-javascript`
+`npm install is-not-javascript`
 
 ## Usage
 
