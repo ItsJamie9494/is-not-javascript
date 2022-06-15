@@ -1,11 +1,14 @@
 {
   "name": "is-not-javascript",
-  "version": "4.20.69",
+  "version": "6.94.20",
   "description": "Want to make extra sure you aren't using Javascript? This package is for you!",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ItsJamie9494/is-not-javascript.git"
+  },
+  "dependencies": {
+    "is-javascript": "0.666.1"
   },
   "author": "Jamie Murphy <hello@jamiethalacker.dev>",
   "license": "WTFPL"
