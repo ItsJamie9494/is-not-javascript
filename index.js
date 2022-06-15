@@ -1,7 +1,12 @@
 const isJavascript = require('is-javascript')
+const { useMemo } = require('react')
 
 function isNotJavascript() {
     return !isJavascript();
 }
 
-module.exports = isNotJavascript
+function useIsNotJavascript() {
+    return useMemo(isNotJavascript, [])
+}
+
+module.exports = { isNotJavascript, useIsNotJavascript }
